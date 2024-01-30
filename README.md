@@ -1,5 +1,5 @@
 # olio_chef_inheritance
 
-olio (OPP) class exercise
+olio (OOP) class exercise
 
 Uses inheritance
